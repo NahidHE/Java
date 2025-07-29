@@ -23,7 +23,7 @@ Follow these steps to compile and run any `.java` file:
   ```bashh
    java FileName
    ```
-  Replace `FileName` with the actual name of your Java file (without the  `.java` extension.
+  Replace `FileName` with the actual name of your Java file (without the  `.java` extension.)
 
 
 ## Notes:
